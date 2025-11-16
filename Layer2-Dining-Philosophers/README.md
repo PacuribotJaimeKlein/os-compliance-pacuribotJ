@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 Dining Philosophers Problem (Layer 2)
 
 This project implements the Dining Philosophers Problem using `pthreads` and `semaphores` in C.
@@ -13,6 +13,4 @@ Asymmetric Strategy
 
 
 
-=======
-# os-compliance-pacuribotJ
->>>>>>> ef4d28ec1ce691572af2263f535aebe8573380e2
+
